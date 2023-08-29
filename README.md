@@ -34,13 +34,9 @@ De lo anterior, a través del coeficiente de verosimilitudes de Neyman Pearson, 
 
 Clasifica a **s** en: 
 
-> $\left\{\begin{matrix}
+> $\left\{\begin{matrix}\Omega _{1} \quad si \quad \boldsymbol{s}> 0\\ \Omega _{0} \quad si \quad \boldsymbol{s}\leq  0\end{matrix}\right.$
 
-\Omega _{1} \quad si \quad \boldsymbol{s}> 0\\ 
 
-\Omega _{0} \quad si \quad \boldsymbol{s}\leq  0
-
-\end{matrix}\right.$
 
 
 **INSTRUCCIONES**
