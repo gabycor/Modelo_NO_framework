@@ -35,6 +35,9 @@ De lo anterior, a través del coeficiente de verosimilitudes de Neyman Pearson, 
 Clasifica a **s** en: 
 
 > $\Omega _{1} \quad si \quad \boldsymbol{s}> 0$
+
+
+
 > $\Omega _{0} \quad si \quad \boldsymbol{s}\leq  0$
 
 
