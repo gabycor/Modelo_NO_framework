@@ -51,4 +51,6 @@ Clasifica a **s** en:
   3. Abra en el entorno de desarrollo integrado de su preferencia el nombre del archivo.
   4. Modifique la ruta de lectura por la ruta de lectura que se encuentra localmente en su computador.
   5. Corra el modelo y verifique el desempeño del modelo en las últimas líneas de código donde se muestra el reporte de clasificación.
-  *Opcional*: Descomente las líneas de código de su preferencia para obtener diferentes formas de visualización de los resultados. 
+  *Opcional*: Descomente las líneas de código de su preferencia para obtener diferentes formas de visualización de los resultados.
+
+Notas: el modelo tarda en correr debido a que el proceso lo realiza de manera exhaustiva de cada una de las corridas
